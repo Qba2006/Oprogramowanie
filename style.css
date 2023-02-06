@@ -1,0 +1,60 @@
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0px;
+}
+
+.div1{
+    background-color: rgb(130, 69, 85);
+    color: white;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 120px;
+}
+
+#blok1{
+    width: 50%;
+}
+.div2{
+    background-color: rgb(130, 69, 85);
+    text-align: left;
+}
+
+.div3{
+    background-color:rgb(240, 234, 226);
+    color: black;
+    padding: 0px 120px 120px 120px;
+}
+
+.div4{
+    height: 332px;
+    background-color: rgb(130, 69, 85); 
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 120px;
+}
+
+.zdj3{
+    margin: 40px;
+    padding: 10px;
+}
+.cos{
+    text-align:left;
+}
+
+table,tr,td{
+    border: 1px solid rgb(130, 69, 85);
+}
+
+.od{
+    color: rgb(240, 234, 226);
+}
+
+#wynik1{
+    text-align: left;
+}
+
+#blok3{
+    width: 50%;
+}
